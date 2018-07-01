@@ -1,4 +1,4 @@
-name: Dart Comics
+name: dart_comics
 dependencies:
   dirty: any
   uuid: any

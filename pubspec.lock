@@ -37,3 +37,5 @@ packages:
     description: uuid
     source: hosted
     version: "0.2.2"
+sdks:
+  dart: ">=1.0.0 <2.0.0"
